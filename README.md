@@ -3,7 +3,7 @@
 ## My name is Luca, and I'm so glad you're here!  
 
 I'm a **high school student** passionate about technology and coding.  
-I speak both **Portuguese (Brazilian)** and **English**, and I’m currently learning programming through **Alura**.  
+I speak both **Portuguese (Brazilian)** and **English**, and I’m currently learning programming Autodidactly.  
 
 ---
 
